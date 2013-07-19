@@ -7,6 +7,6 @@ We use it ourselves in combination with a inventory administration Web site. Jus
 
 You can use this solution yourself to automate your label distribution. Just make sure to change the path to your label files - they're currently being fetched from a local network path (\\win2k12.ad.local\Programs\...), which you probably don't have set up the same way as we do.
 
-Note that this is indeed a very simple implementation. If you're planning to expose this to the Internet, you might want to tweak the variable processing a bit. There isn't any validation at the moment (as it's being used in a private environment at this moment).
+Note that this is indeed a very simple implementation. *Because of that, it wouldn't be a very good idea to use this in a large production environment*. If you're planning to expose this to the Internet, *you might want to tweak the variable processing a bit*. There isn't any validation at the moment (as it's being used in a private environment at this moment and we don't really need it).
 
 Contribution is always welcome. Feel free to fork and let your creativity get loose. We love to see what others make!
