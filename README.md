@@ -1,5 +1,6 @@
-GBPrintServer
-=============
+# GBPrintServer for Windows
+
+*Note:* If you're looking for solution that loves running on Unix-based systems, you might want to check out (py-gbclient-unix)[https://github.com/robbietjuh/py-gbclient-unix]!
 
 At RobbytuProjects we love automation. Automation all the way! This simple solution makes it possible to offer print jobs through HTTP to any bpac compatible Brother label printer.
 
